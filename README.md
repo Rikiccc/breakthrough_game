@@ -14,7 +14,7 @@ The goal is to **move one of your pawns to the opponent’s back rank** or preve
 - **White pawns** move upward, **Black pawns** move downward.  
 - Pawns can move:
   - Forward into an empty square  
-  - Diagonally forward to capture an opponent’s pawn  
+  - Diagonally forward to capture an opponent’s pawn and also into an empty square 
 
 ---
 
