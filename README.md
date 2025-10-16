@@ -36,5 +36,5 @@ The goal is to **move one of your pawns to the opponent’s back rank** or preve
 ---
 Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/breakthrough-game.git
-   cd breakthrough-game
+   git clone https://github.com/Rikiccc/breakthrough_game.git
+   cd breakthrough_game
